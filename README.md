@@ -16,7 +16,6 @@ This project is a practical implementation of a FastAPI application.  It serves 
 *   Authentication and authorization (if included)
 *   Deployment (if included)
 
-**(Add more specific details about what the project does.  For example: "This project implements a simple to-do list API, allowing users to create, read, update, and delete tasks.")**
 
 ## Getting Started
 
@@ -61,5 +60,5 @@ Before running this project, ensure you have the following installed:
 To start the FastAPI application, use Uvicorn:
 
 ```bash
-uvicorn main:app --reload  # Replace "main:app" with the correct entry point if different
+uvicorn main:app --reload
 ```
