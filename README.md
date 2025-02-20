@@ -12,10 +12,8 @@ This project is a practical implementation of a FastAPI application.  It serves 
 *   Data validation and serialization
 *   Database interaction (if applicable, specify which database)
 *   Asynchronous operations
-*   Testing (if included)
+*   Testing
 *   Authentication and authorization (if included)
-*   Deployment (if included)
-
 
 ## Getting Started
 
@@ -27,7 +25,6 @@ Before running this project, ensure you have the following installed:
 *   Poetry (recommended for dependency management) or pip
 *   FastAPI
 *   Uvicorn (or another ASGI server)
-*   **(List all other dependencies used in the project.  For example: "SQLAlchemy", "Pydantic", etc.)**
 
 ### Installation
 
